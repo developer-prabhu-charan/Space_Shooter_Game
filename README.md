@@ -65,7 +65,7 @@ space-shooter/
 👨‍💻 Developer
 Prabhu Charan Jerripothula
 
-🔗 LinkedIn
+🔗 [LinkedIn](https://www.linkedin.com/in/prabhu-charan-jerripothula-8006b7352/)
 
 📫 developerprabhucharan@gmail.com
 
