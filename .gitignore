@@ -1,0 +1,11 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore build artifacts and distribution folders
+/build/
+/dist/
+
+# Ignore compiled executables
+*.exe
+*.pkg
